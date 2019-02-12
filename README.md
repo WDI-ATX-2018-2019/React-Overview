@@ -12,8 +12,8 @@
 
 ### Hope you love React as much as I do !!!!
 #### Here are some links for some supplemental Reading
-    1. [React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
-    1. [React Docs](https://reactjs.org/)
-    3. [React Patterns](https://reactpatterns.com/)
-    4. [React Best Practices from Airbnb](https://github.com/airbnb/javascript/tree/master/react)
-    5. [React Podcast](https://reactpodcast.simplecast.fm/)
+    1. [React Handbook].(https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795/)
+    2. [React Docs].(https://reactjs.org/)
+    3. [React Patterns].(https://reactpatterns.com/)
+    4. [React Best Practices from Airbnb].(https://github.com/airbnb/javascript/tree/master/react)
+    5. [React Podcast].(https://reactpodcast.simplecast.fm/)
