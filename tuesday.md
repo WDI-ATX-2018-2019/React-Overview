@@ -13,9 +13,19 @@ If we have time we will do some React review and get even more practice!
 
 ```javascript
 componendDidMount() {
-    const getThings = async () => {
-        fetch()
+  getCrimes = async () => {
+    try {
+      const crimes = await fetch('https://data.cityofchicago.org/resource/crimes.json');
+       if (!crimes.ok) {
+          throw Error(response.statusText);
+       }
+      const crimesJson = await crimes.json();
+      this.setState({crimes: crimesJson});
+    } catch (err) {
+      console.log(err, 'error in catch block')
+      return err
     }
+  }
 }
 
 ```
