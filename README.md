@@ -16,4 +16,4 @@
     1. [React Docs](https://reactjs.org/)
     3. [React Patterns](https://reactpatterns.com/)
     4. [React Best Practices from Airbnb](https://github.com/airbnb/javascript/tree/master/react)
-    5. [React Podcast](https://reactpodcast.simplecast.fm/)
+    5. [React Podcast](https://reactpodcast.simplecast.fm/)https://github.com/WDI-ATX-2018-2019/React-Overview/blob/master/README.md
