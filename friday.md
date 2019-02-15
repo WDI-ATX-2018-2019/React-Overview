@@ -4,13 +4,9 @@
 
 ### Today we will talk about Redux
 
-> ##### Redux is a global state management tool that can be used with React. It is very powerful for large applications however it is highly obtuse and abstract, so I will not be assigning any Redux homework to you however I will provide you with some resources on how to implement this in any project you are working on, and a couple assignments so that you can practice it for the on the Job!
-
-[Please watch this short video]()
+> ##### Redux is a global state management tool that can be used with React. It is very powerful for large applications however it is highly obtuse and abstract, so I will not be assigning any Redux homework to you however I will provide you with some resources on how to implement this in any project you are working on, and a tutorial so that you can practice it for the on the Job!
 
 ## [Redux Docs](https://redux.js.org/)
-
-take a quick peek at these
 
 [HERE IS A TUTORIAL FOR REDUX](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f) I wont say it's quick lol.
 
@@ -34,7 +30,7 @@ take a quick peek at these
 
 5. View
 ---
-Well...the view is our react app.
+Well...the view is our react app. This is where our events that fire Actions Live.
 
 
 
