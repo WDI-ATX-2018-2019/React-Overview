@@ -16,19 +16,19 @@
 --- 
    This is the central place where our global state is kept. This state should be immutable. Meaning when we update the global state we create a new piece of state and leave the old piece alone. This lets us keep track of the state and move backwards in time if we have to.
 
-2. Actions
+### 2. Actions
 --- 
    This what triggers the Redux State Lifecycle for example the click of a button or a call to an external REST API. We will have Action Creators wich are the events that occur within javascript, and then we will have the actions them selves which should be pure in nature while passed to the reducer.
 
-3. Reducers
+### 3. Reducers
 --- 
    These are funcitons that take inital state and an action and reduce it to the new state. `(state, action) => newState` These though they might seem abstract are intended to be PURE FUNCTIONS without any side effects. 
 
-4. Dispatch
+### 4. Dispatch
 ---
     This is where the actions are dispatched our store and our Reducer.
 
-5. View
+### 5. View
 ---
 Well...the view is our react app. This is where our events that fire Actions Live.
 
